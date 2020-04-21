@@ -1,0 +1,3 @@
+[submodule "apps/app0"]
+	path = apps/app0
+	url = https://github.com/dbozik/app0.git
