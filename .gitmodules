@@ -4,3 +4,6 @@
 [submodule "apps/app1"]
 	path = apps/app1
 	url = https://github.com/dbozik/app1.git
+[submodule "libs/lib0"]
+	path = libs/lib0
+	url = https://github.com/dbozik/lib0.git
