@@ -22,9 +22,8 @@
     "app0": {
       "tags": []
     },
-    "app0-e2e": {
-      "tags": [],
-      "implicitDependencies": ["app0"]
+    "app1": {
+      "tags": []
     }
   }
 }
